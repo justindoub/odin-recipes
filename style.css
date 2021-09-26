@@ -1,0 +1,21 @@
+body{
+    background-color: #8bd1e8;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 h2{
+    font-weight: bold;
+}
+
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: #efefee;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
